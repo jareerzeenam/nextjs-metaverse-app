@@ -27,7 +27,7 @@ git clone https://github.com/jareerzeenam/nextjs-metaverse-app.git
 2. Install the dependencies:
 
 ```shell
-cd metaversus-landing-page
+cd nextjs-metaverse-app
 npm install
 ```
 
