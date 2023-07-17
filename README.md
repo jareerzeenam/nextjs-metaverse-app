@@ -39,18 +39,6 @@ npm run dev
 
 4. Open your browser and visit `http://localhost:3000` to view the Metaversus Concept Landing Page.
 
-## Deployment
-
-To deploy the landing page to a production environment, you can follow these steps:
-
-1. Build the project:
-
-```shell
-npm run build
-```
-
-2. Deploy the generated files to your preferred hosting platform or server.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
